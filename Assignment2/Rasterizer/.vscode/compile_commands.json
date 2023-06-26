@@ -1,0 +1,16 @@
+[
+{
+  "directory": "/Users/chenchoi/Github/Games101-Homework/Assignment2/Rasterizer",
+  "arguments": ["/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang", "-c", "-Qunused-arguments", "-target", "arm64-apple-macos13.3", "-isysroot", "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk", "-g", "-O0", "-std=c++17", "-framework", "Foundation", "-framework", "CoreFoundation", "-framework", "CoreGraphics", "-framework", "AppKit", "-framework", "OpenCL", "-framework", "Accelerate", "-I", "/Users/chenchoi/.xmake/packages/e/eigen/3.4.0/eeabab5028dd4442ac4ebc3d7095c1cf/include", "-I", "/Users/chenchoi/.xmake/packages/e/eigen/3.4.0/eeabab5028dd4442ac4ebc3d7095c1cf/include/eigen3", "-I", "/Users/chenchoi/.xmake/packages/o/opencv/4.7.0/8963f1f0e12048bf984975bb2852f7e4/include/opencv4", "-o", "build/.objs/Rasterizer/macosx/arm64/debug/src/rasterizer.cpp.o", "src/rasterizer.cpp"],
+  "file": "src/rasterizer.cpp"
+},
+{
+  "directory": "/Users/chenchoi/Github/Games101-Homework/Assignment2/Rasterizer",
+  "arguments": ["/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang", "-c", "-Qunused-arguments", "-target", "arm64-apple-macos13.3", "-isysroot", "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk", "-g", "-O0", "-std=c++17", "-framework", "Foundation", "-framework", "CoreFoundation", "-framework", "CoreGraphics", "-framework", "AppKit", "-framework", "OpenCL", "-framework", "Accelerate", "-I", "/Users/chenchoi/.xmake/packages/e/eigen/3.4.0/eeabab5028dd4442ac4ebc3d7095c1cf/include", "-I", "/Users/chenchoi/.xmake/packages/e/eigen/3.4.0/eeabab5028dd4442ac4ebc3d7095c1cf/include/eigen3", "-I", "/Users/chenchoi/.xmake/packages/o/opencv/4.7.0/8963f1f0e12048bf984975bb2852f7e4/include/opencv4", "-o", "build/.objs/Rasterizer/macosx/arm64/debug/src/Triangle.cpp.o", "src/Triangle.cpp"],
+  "file": "src/Triangle.cpp"
+},
+{
+  "directory": "/Users/chenchoi/Github/Games101-Homework/Assignment2/Rasterizer",
+  "arguments": ["/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang", "-c", "-Qunused-arguments", "-target", "arm64-apple-macos13.3", "-isysroot", "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk", "-g", "-O0", "-std=c++17", "-framework", "Foundation", "-framework", "CoreFoundation", "-framework", "CoreGraphics", "-framework", "AppKit", "-framework", "OpenCL", "-framework", "Accelerate", "-I", "/Users/chenchoi/.xmake/packages/e/eigen/3.4.0/eeabab5028dd4442ac4ebc3d7095c1cf/include", "-I", "/Users/chenchoi/.xmake/packages/e/eigen/3.4.0/eeabab5028dd4442ac4ebc3d7095c1cf/include/eigen3", "-I", "/Users/chenchoi/.xmake/packages/o/opencv/4.7.0/8963f1f0e12048bf984975bb2852f7e4/include/opencv4", "-o", "build/.objs/Rasterizer/macosx/arm64/debug/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
